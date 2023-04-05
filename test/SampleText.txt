@@ -1,0 +1,13 @@
+  DD/MM/YYYY    
+  Sample Name    10,000.00    
+  The Number before but spelled in letters
+  ********  
+  SomeBank  
+  SomeResponsibleForBankAccount  
+  0578  
+  001002  Concept of Invoice  10,000.00
+  Factura     Importe       Factura     Importe      Factura     Importe  
+  0102 5,000.00
+  0304 3,000.00
+  0506 2,000.00
+  10,000.00  10,000.00
